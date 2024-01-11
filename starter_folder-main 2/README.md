@@ -1,4 +1,4 @@
-# Starter folder
+# Sehar Bajwa - INF312
 
 ## Overview
 
